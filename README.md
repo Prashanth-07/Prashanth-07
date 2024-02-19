@@ -1,7 +1,7 @@
 ![logo](https://github.com/Prashanth-07/Prashanth-07/blob/main/github-banner.png)
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="[https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif](https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif)">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2459439/screenshots/5314041/gamerpeople1_3.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prashanth-07&label=Profile%20views&color=0e75b6&style=flat" alt="prashanth-07">
@@ -46,3 +46,7 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashanth-07&" alt="prashanth-07">
 </p>
+
+Support 🙏
+
+Support 🙏
